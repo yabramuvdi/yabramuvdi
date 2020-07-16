@@ -1,19 +1,16 @@
 ### Hi there 👋
 
-<!--
-**yabramuvdi/yabramuvdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a social scientist, an economist, and a data scientist. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-yabramuvdi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/yabramuvdi//)](https://www.linkedin.com/yabramuvdi/) [![Gmail Badge](https://img.shields.io/badge/-yabran.muvdi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yabran.muvdi@gmail.com)](mailto:yabran.muvdi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-yabramuvdi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yabra-muvdi///)](https://www.linkedin.com/in/yabra-muvdi/) [![Gmail Badge](https://img.shields.io/badge/-yabran.muvdi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yabran.muvdi@gmail.com)](mailto:yabran.muvdi@gmail.com)
 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About**
+
+- 🔭 I’m searching for
+- 🌱 I’m currently learning
+- 🤔 I’m currently thinking
+
+
