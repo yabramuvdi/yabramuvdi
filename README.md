@@ -3,6 +3,9 @@
 <!--
 **yabramuvdi/yabramuvdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Linkedin Badge](https://img.shields.io/badge/-yabramuvdi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/yabramuvdi//)](https://www.linkedin.com/yabramuvdi/) [![Gmail Badge](https://img.shields.io/badge/-yabran.muvdi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yabran.muvdi@gmail.com)](mailto:yabran.muvdi@gmail.com)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
