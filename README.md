@@ -9,6 +9,7 @@ I am a social scientist, an economist, and a data scientist. Not sure in which o
 
 **About**
 
-- 🔭 I’m searching for opportunities to use data science for the improvement of social programs. 
+- 🔭 I’m searching for opportunities to use data science for the improvement of social programs. I made a short presentation exploring some of these ideas. You can find it [here](https://www.dropbox.com/s/cb8a1iwvxa9m0uu/DS4Development.pptx.pdf?dl=0).
+- :orange_book: My complete CV in English can be found [here](https://www.dropbox.com/s/n9qqhap4pjuxk19/CV_Yabra_Muvdi_EN.pdf?dl=0).
 <!-- - 🌱 I’m currently learning... -->
 <!-- - 🤔 I’m currently thinking... -->
