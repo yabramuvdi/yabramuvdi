@@ -7,7 +7,3 @@ I am an economist and a data scientist interested in exploring how diverse stati
 
 
 ---
-
-**About**
-
-- :orange_book: My complete CV in [English](https://yabramuvdi.github.io/files/CV.pdf).
